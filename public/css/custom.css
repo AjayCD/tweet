@@ -1,0 +1,55 @@
+body{
+    font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+}
+.friend-list img
+{
+    margin-right:5%;
+    width:50px;
+    height:50px;
+}
+
+.friend-list span{
+    font-size:15px;
+    padding:5% 0px;
+
+}
+.menubar a{
+    font-size: 18px;
+    font-weight:500;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+
+}
+.menubar li{
+    margin: 10% 0;
+
+}
+
+.post-user img{
+    width:40px;
+    height:40px;
+    float:left;
+}
+.post-user pro-info{
+    width:40px;
+    float:left;
+
+}
+.post-user .btn{
+    float:right;
+    right:0;
+}
+.post-area textarea{
+    font-size:15px;
+}
+.webfooter {
+    position: fixed;
+    width: 100%;
+    bottom:0;
+    left: 0;
+    padding:15px 0px;
+    background-color:#4AA0E6;
+    
+    
+}
